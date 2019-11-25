@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "Qwerty",
+  "license": "UNLICENSED",
+  "author": "",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "3.7.2"
+  }
+}

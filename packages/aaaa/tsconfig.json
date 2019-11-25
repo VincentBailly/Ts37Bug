@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "declarationMap": true,
+    "inlineSourceMap": true,
+    "inlineSources": false,
+    "jsx": "react",
+    "declaration": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "preserveWatchOutput": true,
+    "rootDir": "src",
+    "outDir": "lib",
+    "lib": [
+      "es5",
+      "dom",
+      "es2015.promise",
+      "es2015.collection",
+      "es2015.iterable"
+    ],
+    "skipLibCheck": true,
+    "composite": true
+  },
+  "include": [
+    "src"
+  ]
+}

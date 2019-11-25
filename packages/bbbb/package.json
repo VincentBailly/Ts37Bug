@@ -1,0 +1,8 @@
+{
+  "name": "bbbb",
+  "version": "1.0.0",
+  "dependencies": {"aaaa":"*"},
+  "devDependencies": {
+    "typescript": "3.7.2"
+  }
+}
